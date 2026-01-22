@@ -1,1 +1,5 @@
-Array-related problem solving and implementations.
+# Array
+
+Array-based problems for competitive programming.
+
+Focus on common CP patterns, constraints handling, and efficient implementation.
