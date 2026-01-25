@@ -1,29 +1,58 @@
-# Data Structures & Algorithms Practice
+# Data Structures and Algorithms (DSA)
 
-This repository contains my practice and implementations of core Data Structures and Algorithms as part of my Computer Science & Engineering studies.
+This repository contains my structured practice of **Data Structures and Algorithms (DSA)** using **C++**.
+The purpose of this repository is to build strong problem-solving fundamentals and prepare for **technical interviews** through consistent, topic-wise practice.
 
-## 📌 About
-I use this repository to strengthen my problem-solving skills and deepen my understanding of fundamental computer science concepts through regular coding practice.
+---
 
-## 🧠 Topics Covered
-- Arrays
-- Strings
-- Recursion
-- Searching Algorithms
-- Sorting Algorithms
-- Basic Data Structures
+## 🛠 Language Used
+- **C++**
 
-## 💻 Languages Used
-- C++
-- Java
+---
 
-## 🎯 Objective
-- Improve logical thinking and problem-solving ability
-- Understand time and space complexity
-- Write clean and structured code
+## 📂 Repository Structure
 
-## 📂 Structure
-Each topic is organized into separate folders.  
-Each file contains solutions to individual problems with clear naming.
+DSA/
+├── Arrays/
+├── Strings/
+├── Stack/
+├── Queue/
+├── LinkedList/
+├── Recursion/
+├── Tree/
+├── Hashing/
+├── Heap/
+├── Graph/
+├── DP/
 
-Example:
+Each folder represents a specific DSA topic.  
+Each file contains the solution to a single problem written in clean and readable C++.
+
+---
+
+## 🎯 Objectives
+- Develop strong fundamentals in Data Structures and Algorithms
+- Improve logical thinking and problem-solving skills
+- Write clean, efficient, and well-structured C++ code
+- Maintain consistency and discipline in daily practice
+- Build a solid foundation for technical interviews
+
+---
+
+## 📌 Practice Guidelines
+- One problem at a time
+- One solution per file
+- Meaningful commit messages
+- Focus on understanding concepts, not memorization
+- Old solutions may be improved or refactored as learning progresses
+
+---
+
+## 🚀 Progress
+This repository is continuously updated as I practice and learn new DSA concepts.
+
+---
+
+## 📝 Note
+- Problems are solved from standard DSA practice platforms.
+- Code quality and readability are prioritized over quantity.
