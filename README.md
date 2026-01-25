@@ -1,58 +1,38 @@
-# Data Structures and Algorithms (DSA)
+# Hi, I'm Prottoy 👋
 
-This repository contains my structured practice of **Data Structures and Algorithms (DSA)** using **C++**.
-The purpose of this repository is to build strong problem-solving fundamentals and prepare for **technical interviews** through consistent, topic-wise practice.
+I am a **Computer Science & Engineering (CSE) student** with a strong interest in **problem solving**.
 
----
-
-## 🛠 Language Used
-- **C++**
+Currently, I am focusing on building solid fundamentals in DSA using **C++** and improving my coding consistency through regular practice.
 
 ---
 
-## 📂 Repository Structure
-
-DSA/
-├── Arrays/
-├── Strings/
-├── Stack/
-├── Queue/
-├── LinkedList/
-├── Recursion/
-├── Tree/
-├── Hashing/
-├── Heap/
-├── Graph/
-├── DP/
-
-Each folder represents a specific DSA topic.  
-Each file contains the solution to a single problem written in clean and readable C++.
+## 🚀 What I'm Currently Doing
+- Practicing **Data Structures & Algorithms (DSA)** in C++
+- Strengthening problem-solving and logical thinking
+- Building a disciplined GitHub workflow
+- Preparing for future **software engineering interviews**
 
 ---
 
-## 🎯 Objectives
-- Develop strong fundamentals in Data Structures and Algorithms
-- Improve logical thinking and problem-solving skills
-- Write clean, efficient, and well-structured C++ code
-- Maintain consistency and discipline in daily practice
-- Build a solid foundation for technical interviews
+## 🛠 Skills & Tools
+- **Programming Languages:** C++
+- **Core Concepts:** Data Structures, Algorithms, Problem Solving
+- **Tools:** Git, GitHub
 
 ---
 
-## 📌 Practice Guidelines
-- One problem at a time
-- One solution per file
-- Meaningful commit messages
-- Focus on understanding concepts, not memorization
-- Old solutions may be improved or refactored as learning progresses
+## 📂 Repositories
+- **DSA** → Structured practice of Data Structures & Algorithms in C++
 
 ---
 
-## 🚀 Progress
-This repository is continuously updated as I practice and learn new DSA concepts.
+## 🎯 Goals
+- Become confident in core DSA topics
+- Write clean, readable, and efficient code
+- Build a strong GitHub profile with consistent contributions
+- Grow towards a software engineering career
 
 ---
 
-## 📝 Note
-- Problems are solved from standard DSA practice platforms.
-- Code quality and readability are prioritized over quantity.
+## 📫 Connect
+- GitHub: https://github.com/Prottoy221b
